@@ -1,0 +1,6 @@
+/Users/maxkhanov/Projects/markovModel/markovModel/bin/Debug/markovModel.exe
+/Users/maxkhanov/Projects/markovModel/markovModel/bin/Debug/markovModel.pdb
+/Users/maxkhanov/Projects/markovModel/markovModel/obj/x86/Debug/markovModel.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/markovModel/markovModel/obj/x86/Debug/markovModel.exe
+/Users/maxkhanov/Projects/markovModel/markovModel/obj/x86/Debug/markovModel.pdb
+/Users/maxkhanov/Projects/markovModel/markovModel/obj/x86/Debug/markovModel.csprojResolveAssemblyReference.cache
